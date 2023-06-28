@@ -8,6 +8,9 @@ Esta API de Recomendación de Películas es un proyecto que tiene como objetivo 
 El proceso de ETL se realizó para preparar los datos necesarios para la API de recomendación de películas. A continuación, se describe el proceso paso a paso:
 
 1. Extracción: Se obtuvieron dos conjuntos de datos para este proyecto. El primer conjunto de datos es una base de datos de películas que contiene información sobre títulos, géneros y otras características de las películas. El segundo conjunto de datos es un archivo CSV que contiene críticas y puntuaciones de películas realizadas por usuarios.
+los datasets brindados:
+- movies_dataset.csv
+- credits.csv
 2. Transformación: Se llevaron a cabo varias transformaciones en los datos extraídos para prepararlos para el modelo de recomendación. Esto incluyó la limpieza y preprocesamiento de los textos de las críticas, la combinación de los conjuntos de datos de películas y críticas en uno solo, y la generación de una matriz de características para calcular la similitud entre películas.
 3. Carga: Los datos transformados se almacenaron en un formato adecuado para su posterior uso en la API de recomendación de películas.
 
