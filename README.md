@@ -57,4 +57,4 @@ Este proyecto de API de Recomendación de Películas está en constante desarrol
 Este proyecto se distribuye bajo la Licencia MIT. Para obtener más información, consulta el archivo LICENSE en este repositorio.
 
 
-¡Gracias por utilizar la API de Recomendación de Películas! Esperamos que encuentres útil esta herramienta para descubrir nuevas películas y disfrutar de una experiencia de recomendación personalizada. Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos. ¡Disfruta explorando películas!
+¡Gracias por utilizar la API de Recomendación de Películas! Esperamos que encuentres útil esta herramienta para descubrir nuevas películas y disfrutar de una experiencia de recomendación personalizada. 
