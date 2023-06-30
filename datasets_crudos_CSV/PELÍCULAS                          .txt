@@ -1,0 +1,61 @@
+PELÍCULAS                                 ACTORES          DIRECTORES
+House III: The Horror Show     |   Diane Keaton          | Howard Deutch           
+King Kong                      |   BD Wong               | Martin Scorsese
+Infernal Affairs III           |   Michael Goetz         | Steve Oedekerk 
+Rome, Open City                |   Pierce Brosnan        | Barry Sonnenfeld
+It Lives Again		       |   Robbie Coltrane	 | Richard Donner
+Why Did I Get Married?         |   Samantha Bond         | Brian Gibson
+House on Haunted Hill          |   Kevin Bacon           | Wes Craven
+Sex and Zen                    |   Jim Cummings          | Andrew Davis
+Witchery                       |   Jim Carrey            | Joel Schumacher
+Hotel Transylvania 2           |   John Travolta         | Bryan Spicer	 
+Rambo: First Blood Part II     |   Danny DeVito          | George Lucas
+Cheaper by the Dozen 2         |   Ice Cube              | John Carpenter
+Patriot Games                  |   Quentin Tarantino     | Robert Zemeckis         
+White Fang                     |   Salma Hayek           | Chuck Russell
+MVP 2: Most Vertical Primate   |   Danny Trejo           | James Cameron
+Another 48 Hrs.                |   Will Smith            | John G. Avildsen
+                               |   Clint Eastwood        | Steven Spielberg
+MORE MOVIES                    |   Bruce Willis          | Francis Ford Coppola
+                               |   Sandra Bullock	 | Robert Stevenson	
+---
+Avengers: Age of Ultron
+---
+ Ant-Man
+---
+ Deadpool
+---
+Guardians of the Galaxy Vol. 2
+---
+ Spectre
+---
+ Batman v Superman: Dawn of Justice
+---
+ Wonder Woman
+---
+ Finding Dory
+---
+ Now You See Me 2
+---
+The Conjuring 2
+---
+Ghostbusters
+---
+Jason Bourne
+---
+ Inferno
+---
+Rogue One: A Star Wars Story
+---
+ John Wick: Chapter 2
+---
+Logan
+---
+Fifty Shades Darker
+---
+ Alien: Covenant
+---
+ The Fate of the Furious
+---
+ Despicable Me 3
+---
