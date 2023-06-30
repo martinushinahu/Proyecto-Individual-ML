@@ -1,0 +1,5 @@
+link de los datasets obtenidos despues de la desanidación de algunas columnas del dataframe principal
+movies_dataset.csv
+credits.csv
+
+https://drive.google.com/drive/folders/1d25XsXOWwp1d_Dh5Qwqx1GNu5DD1YV21?usp=drive_link
